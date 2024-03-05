@@ -339,7 +339,7 @@ a:focus {
 }
 
 .slider_section .detail-box  h3 span {
-  color: #f1db25;
+  color: #0462c4;
 }
 
 .slider_section .detail-box p {
@@ -378,7 +378,7 @@ a:focus {
 .slider_section .detail-box .btn-box .btn-2 {
   display: inline-block;
   padding: 10px 35px;
-  background-color: #f1db25;
+  background-color: #0462c4;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
